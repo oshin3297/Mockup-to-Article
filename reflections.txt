@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * 
+What new skills have you learned?
+
+I have learned that we can use emphasis tag<em> instead of italics <i>.
+
+Also strong <strong> tag can be used instead of bold <b> tag
+
+
+  * What has been easy?
+ 
+
+Everything is easy as I have been provided with the mock up article
+
+ * What has been difficult?
+
+
+This one project is easy nothing was difficult
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+By using W3 schools
